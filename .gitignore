@@ -1,3 +1,6 @@
 #Ignore the files below
 history.txt
-app/
+api/
+.venv/
+.env
+app/database.py
