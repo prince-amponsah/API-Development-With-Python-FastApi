@@ -2,7 +2,6 @@
 api/
 .venv/
 .env
-app/database.py
 __pychache__/
 __init__.py
 app/__pychache__/
