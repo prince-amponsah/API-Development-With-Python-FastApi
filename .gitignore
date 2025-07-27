@@ -1,5 +1,4 @@
 #Ignore the files below
-history.txt
 api/
 .venv/
 .env
